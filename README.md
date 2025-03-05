@@ -7,13 +7,13 @@ A2:
 A3:
 A4:
 A5:
-A6:
+A6: PCA from scratch: Eigenvalues and Eigenvectors (Python)
 A7:
 A8:
 A9:
-A10:
-A11:
-A12:
+A10: Dimesionality Reduction in Cancer Diagnosis (R)
+A11: Dimesnionality Reduction ISLR (R)
+A12: Decision Trees (R)
 A13:
 A14:
 A15:
@@ -26,4 +26,4 @@ A21
 A22:
 
 Many of these projects were challenges to myself to create machine learning algorithms "from scratch" or using no machine learning packages/libraries.
-I allowed myself to use certain libraries like numpy, pandas and matplotlib so I could focus on the ML concepts.
+I allowed myself to use certain libraries like numpy, pandas and matplotlib so I could focus on the ML concepts. Other projects used ML packages, but were taken from the book "An Introduction to Statistical Learning" ISL. These projects were done using R.
