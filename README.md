@@ -26,4 +26,4 @@ A21
 A22:
 
 Many of these projects were challenges to myself to create machine learning algorithms "from scratch" or using no machine learning packages/libraries.
-I allowed myself to use certain libraries like numpy, pandas and matplotlib so I could focus on the ML concepts. Other projects used ML packages, but were taken from the book "An Introduction to Statistical Learning" ISL. These projects were done using R.
+I allowed myself to use certain libraries like numpy, pandas and matplotlib so I could focus on the ML concepts. Other projects used ML packages, but were taken from the book "An Introduction to Statistical Learning" ISL. These projects are written in R, the rest are written in python.
