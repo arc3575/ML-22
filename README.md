@@ -1,4 +1,4 @@
-This is a repository that holds 22 projects of mine that I worked on in order to help solidify my core knowledge of machine learning.
+This is a repository that holds 12 projects of mine that I worked on in order to help solidify my core knowledge of machine learning.
 
 These projects are labeled A1-A22 and have the following names:
 
